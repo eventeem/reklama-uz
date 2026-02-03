@@ -1,0 +1,1 @@
+// Uploadthing konfiguratsiyasi
